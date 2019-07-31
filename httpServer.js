@@ -38,7 +38,7 @@ const server = http.createServer((req, res)=>{
             }
             // else if(req.url !==`/${i}`){
             //     if (req.url !==`/`) {              
-            //     res.writeHead(200,{"Content-Type":"text/html"});     
+            //     res.writeHead(404,{"Content-Type":"text/html"});     
             //     res.write("<h1>404</h1>");
             //     res.end();   
                 
