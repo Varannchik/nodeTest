@@ -36,13 +36,13 @@ const server = http.createServer((req, res)=>{
                             <p style="width:300px; text-align:center;">${cars.cars[i].description}</p> </div>                               
                             `);                                             
             }
-            else if(req.url !==`/${i}`){
-                if (req.url !==`/`) {              
-                res.writeHead(200,{"Content-Type":"text/html"});     
-                res.write("<h1>404</h1>");
-                res.end();   
+            // else if(req.url !==`/${i}`){
+            //     if (req.url !==`/`) {              
+            //     res.writeHead(200,{"Content-Type":"text/html"});     
+            //     res.write("<h1>404</h1>");
+            //     res.end();   
                 
-            } }
+            // } }
         
     }
     
