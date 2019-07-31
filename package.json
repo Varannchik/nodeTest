@@ -1,0 +1,11 @@
+{
+  "name": "node3007",
+  "version": "1.0.0",
+  "description": "cars",
+  "main": "index.js",
+  "scripts": {
+    "start": "node httpServer.js"
+  },
+  "author": "Anna",
+  "license": "ISC"
+}

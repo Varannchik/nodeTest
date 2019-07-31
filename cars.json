@@ -1,0 +1,35 @@
+{
+    "cars":[
+    {
+        "model": "Toyota",
+        "photo": "https://cdn.euroncap.com/media/26660/toyota_c-hr_2017_uc-homepage.jpg?mode=crop&width=359&height=235",
+        "price": "30000",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, ullam."
+    },
+    {
+        "model": "Wolksvagen",
+        "photo":"https://avtoexperts.ru/wp-content/uploads/2YMjphX6.jpg",
+        "price": "5000",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, ullam."
+    },
+    {
+        "model": "Kia",
+        "photo": "https://avtocentr.com.ua/uploads/gallery_photo/photo/0038/79.jpg",
+        "price": "8000",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, ullam."
+    },
+    {
+        "model": "Citroen",
+        "photo": "https://www.sixt.co.uk/fileadmin/user_upload/csm_citroen-c4-cactus-5d-gelb-2014_300.jpg",
+        "price": "50000",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, ullam."
+    },
+    {
+        "model": "Mersedes",
+        "photo": "https://www.mercedes-benz.ua/img/section/242/47_tn.jpeg",
+        "price": "10000",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, ullam."
+    }     
+    
+]
+}
